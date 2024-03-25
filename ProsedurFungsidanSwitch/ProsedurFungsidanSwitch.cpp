@@ -72,5 +72,5 @@ int main()
 			break;
 		}
 
-	} 
+	} while (pilihan != 5);
 }
